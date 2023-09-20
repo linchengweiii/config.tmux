@@ -13,6 +13,11 @@ Tmux's configurations are located under the following paths, depending on your O
 | Linux | `$XDG_CONFIG_HOME/tmux`, `~/.config/tmux` |
 | MacOS | `$XDG_CONFIG_HOME/tmux`, `~/.config/tmux` |
 
+Clone tpm:
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+```
+
 Clone config.tmux:
 
 ```sh
